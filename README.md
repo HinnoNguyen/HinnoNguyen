@@ -5,7 +5,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://x.com/kazari_tayu/status/1866504393774047682/photo/1" target="_blank">Credit</a>
+      <a href="https://x.com/kazari_tayu/status/1866504393774047682/photo/1" target="_blank">Credit Link</a>
     </td>
     <td align="right">
       <strong>🎨 Art by <a href="https://x.com/kazari_tayu" target="_blank">@kazari_tayu</a></strong>
