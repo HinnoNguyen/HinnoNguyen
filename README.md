@@ -27,7 +27,7 @@
 
 ### 💫 About Me
 
-**Hinno - Hinno Nguyen 🐧🎨💻🎮🎏**
+**Hinno - Hinno Nguyen - Nguyễn Lan Hương 🐧🎨💻🎮🎏**
 
 ❖ **Vietnamese** 🇻🇳  
 ❖ **Artist • Designer • Gamer • Coder**  
