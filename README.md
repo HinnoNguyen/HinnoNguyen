@@ -2,9 +2,18 @@
   <img src="banner.webp" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
 </p>
 
-<p align="left">
-  <sub>🎨 Art by <a href="https://x.com/kazari_tayu" target="_blank">@kazari_tayu</a></sub>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://x.com/kazari_tayu/status/1866504393774047682/photo/1" target="_blank">Credit</a>
+    </td>
+    <td align="right">
+      <strong>🎨 Art by <a href="https://x.com/kazari_tayu" target="_blank">@kazari_tayu</a></strong>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/HinnoNguyen">
