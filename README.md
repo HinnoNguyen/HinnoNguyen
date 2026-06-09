@@ -77,10 +77,10 @@
 
 ---
 
-### 🧩 3D Contribution Tetris
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/HinnoNguyen/HinnoNguyen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
