@@ -2,10 +2,16 @@
   <img src="banner.png" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">🔮 Hey there, I'm Hinno! 🔮</h1>
+<h1 align="center">🔮 Hinno - Hinno Nguyen 🐧🎨💻🎮🎏 🔮</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Wild+coding+is+my+skill;Building+the+future;Turning+bugs+into+features" alt="Typing SVG" />
+  <strong>🇻🇳 Vietnamese</strong><br>
+  <strong>🎨 Artist • 📐 Designer • 🎮 Gamer • 💻 Coder</strong><br>
+  <strong>🎓 Information System - VNUHCM.UIT Undergraduate</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=AI+Engineer;Game+Design;Software+Development;Wild+coding+is+my+skill" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,20 +19,20 @@
     <img src="https://img.shields.io/github/followers/HinnoNguyen?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0a1128" alt="Followers" />
   </a>
   <img src="https://img.shields.io/badge/Located%20in-Vietnam-008aff?style=for-the-badge&labelColor=0a1128" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%2F%20Creative-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Game%20%2F%20Software-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-Hi, I'm **Hinno**, a passionate developer who believes that **"wild coding is my skill."** I love diving into complex codebases, exploring new technologies, and building beautiful, responsive, and functional web applications. 
+Hi, I'm **Hinno**, a developer and creator focused on **AI Engineering, Game Design, and Software Development**. 
 
-* 🌌 **Current Focus:** Crafting clean code, learning new design systems, and pushing the boundaries of web applications.
-* ⚡ **Philosophy:** Rapid prototyping, continuous learning, and clean architectures.
-* 🔭 **I'm currently working on:** Scalable backend systems & engaging frontend interactions.
-* 💬 **Ask me about:** JavaScript/TypeScript, UI/UX, or why dark mode is superior.
-* 🎨 **Interests:** Anime, digital art, night city vibes, and stargazing.
+* 🐧 **Building:** Intelligent systems, scalable backends, interactive frontends, and immersive game experiences.
+* 🌌 **Current Focus:** Deep learning, game mechanics, and highly interactive user interfaces.
+* ⚡ **Philosophy:** *"Wild coding is my skill."* I thrive on experimenting and building projects with rapid iterations.
+* 💬 **Ask me about:** AI model fine-tuning, game development, art assets, or UI design.
+* 🎨 **Interests:** Digital art, game development jams, and exploring cyberpunk/night sky aesthetics.
 
 ---
 
