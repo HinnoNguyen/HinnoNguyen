@@ -76,8 +76,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HinnoNguyen&show_icons=true&theme=tokyonight&bg_color=0a1128&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&border_color=005f73" alt="Hinno's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HinnoNguyen&layout=compact&theme=tokyonight&bg_color=0a1128&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&border_color=005f73" alt="Top Languages" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HinnoNguyen&show_icons=true&theme=tokyonight&bg_color=0a1128&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&border_color=005f73" alt="Hinno's GitHub Stats" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HinnoNguyen&layout=compact&theme=tokyonight&bg_color=0a1128&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&border_color=005f73" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
