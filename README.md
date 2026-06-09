@@ -39,6 +39,14 @@
 
 ---
 
+### 🐧 Work, Projects & Experiences
+
+❖ **Front-end Development Internship Experience**  
+❖ **Current Data Science Intern**  
+❖ **Building games, training models, and occasionally convincing code to work** 🐧💰
+
+---
+
 ### 🛠️ Current languages, frameworks & tools
 
 <p align="left">
