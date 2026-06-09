@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=AI+Engineer;Game+Design;Software+Development;Wild+coding+is+my+skill" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/HinnoNguyen">
     <img src="https://img.shields.io/github/followers/HinnoNguyen?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0a1128" alt="Followers" />
   </a>
@@ -26,13 +22,9 @@
 
 ### 💫 About Me
 
-Hi, I'm **Hinno**, a developer and creator focused on **AI Engineering, Game Design, and Software Development**. 
+💻 **AI Engineer, Game Design, and Software Development**
 
-* 🐧 **Building:** Intelligent systems, scalable backends, interactive frontends, and immersive game experiences.
-* 🌌 **Current Focus:** Deep learning, game mechanics, and highly interactive user interfaces.
-* ⚡ **Philosophy:** *"Wild coding is my skill."* I thrive on experimenting and building projects with rapid iterations.
-* 💬 **Ask me about:** AI model fine-tuning, game development, art assets, or UI design.
-* 🎨 **Interests:** Digital art, game development jams, and exploring cyberpunk/night sky aesthetics.
+🐧 **Building intelligent systems, scalable backends, interactive frontends, and immersive game experiences.**
 
 ---
 
