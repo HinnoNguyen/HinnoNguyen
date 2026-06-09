@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
+  <video src="video.mp4" width="100%" controls autoplay loop muted></video>
 </p>
 
 <p align="left">
