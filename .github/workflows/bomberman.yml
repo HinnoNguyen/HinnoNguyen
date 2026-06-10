@@ -19,6 +19,8 @@ jobs:
       # Generates a bomberman arcade game from a github user's contributions graph
       - name: Generate bomberman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           github_user_name: HinnoNguyen
           games: 'bomberman'
