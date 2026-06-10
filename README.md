@@ -94,10 +94,14 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 💣 Contribution Bomberman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HinnoNguyen/HinnoNguyen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HinnoNguyen/HinnoNguyen/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HinnoNguyen/HinnoNguyen/output/bomberman-contribution-graph.svg">
+    <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/HinnoNguyen/HinnoNguyen/output/bomberman-contribution-graph.svg" />
+  </picture>
 </p>
 
 ---
