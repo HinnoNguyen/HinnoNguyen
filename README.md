@@ -33,7 +33,7 @@
 ❖ **Artist • Designer • Gamer • Coder**  
 ❖ **Information System - VNUHCM.UIT Undergraduate**  
 
-💻 **AI Engineer, Game Design, and Software Development**
+💻 **AI Engineer, Game Design, Software Development (Basically trying to figure out what I enjoy the most)**
 
 🐧 **Building intelligent systems, scalable backends, interactive frontends, and immersive game experiences.**
 
