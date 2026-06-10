@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="sekai.png" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
+  <img src="sekailogocut.png" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
 </p>
 
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://www.instagram.com/p/DWMkn5xEprW/" target="_blank">Credit Link</a>
+      <a href="https://www.instagram.com/p/C6ydTgsS15W/" target="_blank">Credit Link</a>
     </td>
     <td align="right">
       <strong>🎨 Art by me - <a href="https://www.instagram.com/hiinnoo_/" target="_blank">@Hiinnoo_</a></strong>
