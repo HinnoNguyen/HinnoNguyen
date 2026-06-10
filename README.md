@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="banner.webp" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
+  <img src="sekai.png" width="100%" alt="HinnoNguyen Banner" style="border-radius: 10px;" />
 </p>
 
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://x.com/kazari_tayu/status/1866504393774047682/photo/1" target="_blank">Credit Link</a>
+      <a href="https://www.instagram.com/p/DWMkn5xEprW/" target="_blank">Credit Link</a>
     </td>
     <td align="right">
-      <strong>🎨 Art by <a href="https://x.com/kazari_tayu" target="_blank">@kazari_tayu</a></strong>
+      <strong>🎨 Art by me - <a href="https://www.instagram.com/hiinnoo_/" target="_blank">@Hiinnoo_</a></strong>
     </td>
   </tr>
 </table>
