@@ -86,11 +86,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HinnoNguyen&layout=compact&theme=tokyonight&bg_color=0a1128&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&border_color=005f73&cache_seconds=1800" alt="Top Languages" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HinnoNguyen&layout=compact&theme=tokyonight&bg_color=0a1128&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&border_color=005f73&cache_seconds=1800" alt="Top Languages" height="220px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HinnoNguyen&theme=tokyonight&background=0a1128&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="195px" />
+  <img src="https://streak-stats.demolab.com/?user=HinnoNguyen&theme=tokyonight&background=0a1128&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="220px" />
 </p>
 
 ---
