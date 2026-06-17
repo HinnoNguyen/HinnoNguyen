@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/HinnoNguyen?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0a1128" alt="Followers" />
   </a>
   <img src="https://img.shields.io/badge/Located%20in-Vietnam-008aff?style=for-the-badge&labelColor=0a1128" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Game%20%2F%20Software-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Data%20%2F%20Software%20%2F%20Game-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />>
 </p>
 
 ---
@@ -33,9 +33,9 @@
 ❖ **Artist • Designer • Gamer • Coder**  
 ❖ **Information System - VNUHCM.UIT Undergraduate**  
 
-💻 **AI Engineer, Game Design, Software Development** (Basically trying to figure out what I enjoy the most)
+💻 **Data Science, AI Engineering, Game Design, Software Development** (Basically trying to figure out what I enjoy the most)
 
-🐧 **Building intelligent systems, scalable backends, interactive frontends, and immersive game experiences.**
+🐧 **Building intelligent systems, data-driven solutions, scalable platforms, and immersive game experiences.**
 
 ---
 
@@ -43,7 +43,7 @@
 
 ❖ **Front-end Development Internship Experience**  
 ❖ **Current Data Science Intern**  
-❖ **Building games, training models, and occasionally convincing code to work** 🐧💰
+❖ **Building games, training models, and designing intelligent experience** 🐧💰
 
 ---
 
