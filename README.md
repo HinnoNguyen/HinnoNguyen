@@ -19,7 +19,7 @@
   <a href="https://github.com/HinnoNguyen">
     <img src="https://img.shields.io/github/followers/HinnoNguyen?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0a1128" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HinnoNguyen&label=Profile+Views&style=for-the-badge&color=00e5ff&labelColor=0a1128" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HinnoNguyen&label=Profile+Views&style=for-the-badge&color=ff2a5f&labelColor=0a1128" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Located%20in-Vietnam-008aff?style=for-the-badge&labelColor=0a1128" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Data%20%2F%20Software%20%2F%20Game-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />
 </p>
