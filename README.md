@@ -21,7 +21,7 @@
   </a>
   <img src="https://komarev.com/ghvc/?username=HinnoNguyen&label=Profile+Views&style=for-the-badge&color=00e5ff&labelColor=0a1128" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Located%20in-Vietnam-008aff?style=for-the-badge&labelColor=0a1128" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Game%20%2F%20Software-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Data%20%2F%20Software%20%2F%20Game-bf55ec?style=for-the-badge&labelColor=0a1128" alt="Focus" />
 </p>
 
 ---
@@ -34,9 +34,9 @@
 ❖ **Artist • Designer • Gamer • Coder**  
 ❖ **Information System - VNUHCM.UIT Undergraduate**  
 
-💻 **AI Engineer, Game Design, Software Development** (Basically trying to figure out what I enjoy the most)
+💻 **Data Science, AI Engineering, Game Design, Software Development** (Basically trying to figure out what I enjoy the most)
 
-🐧 **Building intelligent systems, scalable backends, interactive frontends, and immersive game experiences.**
+🐧 **Building intelligent systems, data-driven solutions, scalable platforms, and immersive game experiences.**
 
 ---
 
@@ -44,7 +44,7 @@
 
 ❖ **Front-end Development Internship Experience**  
 ❖ **Current Data Science Intern**  
-❖ **Building games, training models, and occasionally convincing code to work** 🐧💰
+❖ **Building games, training models, and designing intelligent experience** 🐧💰
 
 ---
 
@@ -117,7 +117,7 @@
   <a href="https://www.facebook.com/hinno.nguyen2306/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/hiinnoo_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
